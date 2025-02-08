@@ -103,7 +103,7 @@ nav {
     }
 }
 
-.container {
+.main-container {
     width: 1440px;
     margin: 0 auto;
     height: fit-content;
@@ -136,7 +136,7 @@ nav {
 }
 
 .hero-text {
-    padding: 20px 28px 20px 28px;
+    padding: 20px 28px 20px 50px;
 }
 
 .GH-project {
@@ -260,15 +260,15 @@ nav {
 .leaderboard-content2 {
     background-color: $primary-color;
     width: 729px;
-    height: 686px;
+    height: 600px;
     display: flex;
     flex-direction: column;
 }
 
 .judul {
-    width: 627px;
+    width: 600px;
     height: 100px;
-    padding:  0 52px 0 42px;   
+    padding:  10px 52px 10px 42px;   
 
     h1 {
         font-family: $font-primary;

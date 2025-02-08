@@ -24,7 +24,7 @@
             </div>
         </nav>
 
-        <div class="container-fluid">
+        <div class="main-container">
 
             <section class="leaderboard" id="leaderboard">
                 <div class="leaderboard-top">
